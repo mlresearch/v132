@@ -1,5 +1,5 @@
 ---
-title: Unexpected Effects of Online no-Substitution k-means Clustering
+title: Unexpected Effects of Online no-Substitution $k$-means Clustering
 abstract: 'Offline $k$-means clustering was studied extensively, and algorithms with
   a constant approximation are available. However, online clustering is still uncharted.
   New factors come into play: the ordering of the dataset and whether the number of
@@ -19,7 +19,7 @@ publisher: PMLR
 issn: 2640-3498
 id: moshkovitz21a
 month: 0
-tex_title: Unexpected Effects of Online no-Substitution k-means Clustering
+tex_title: Unexpected Effects of Online no-Substitution $k$-means Clustering
 firstpage: 892
 lastpage: 930
 page: 892-930
